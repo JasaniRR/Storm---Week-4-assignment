@@ -227,4 +227,4 @@ barplot(table_top10_crop$CROPDMG,names.arg=table_top10_crop$EVTYPE,las=2,col="re
 
 Tornadoes, floods and droughts are concluded to be the most destructive events analyzing both the top ten most devastating events on health and economic impact.
 
-Christian Jay (cjay@medlumics.com)
+Jasani Raj (rajjasani4312@gmail.com)
